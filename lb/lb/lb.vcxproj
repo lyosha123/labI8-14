@@ -61,6 +61,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="lb.cpp" />
+    <ClCompile Include="msort.cpp" />
     <ClCompile Include="psort.cpp" />
   </ItemGroup>
   <ItemGroup>

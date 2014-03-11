@@ -8,6 +8,9 @@ void main()
 	cout<<"Введите строку" << endl;
 	cin >> massiv;
 	puzir(massiv);
+	cout<<massiv<<endl<<"========================="<<endl;
+	MSort(massiv,1,strlen(massiv));
+	cout <<"Сортировка ставками"<<endl << massiv;
 	system("pause");
 }
 
